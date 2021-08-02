@@ -1,2 +1,2 @@
 # aws-ml
-AI with AWS Machine Learning
+AI with AWS machine learning components
